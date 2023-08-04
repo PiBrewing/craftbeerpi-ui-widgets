@@ -15,7 +15,7 @@ NUTZUNG
 
 kalausr - Klaus Rolshoven, info@rolshoven.com
 
-Freie Grafiken fuer die Hobbybrauercommunity "www.hobbybrauer.de"
+Freie Grafiken fuer die Hobbybrauercommunity "www.hobbybrauer.de" und CraftbeerPi community.
 Nichtkommerzielle Nutzung gestattet.
 
 Kommerzielle Nutzung nur nach individueller Freigabe und Lizenzierung durch den Autor. 
@@ -38,7 +38,7 @@ USAGE
 
 kalausr - Klaus Rolshoven, info@rolshoven.com
 
-Free graphics for the hobby brewer community "www.hobbybrauer.de"
+Free graphics for the hobby brewer community "www.hobbybrauer.de" and CraftbeerPi community.
 Non-commercial use allowed.
 
 Commercial use only after individual release and licensing by the author. 
