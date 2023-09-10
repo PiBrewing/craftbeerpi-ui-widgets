@@ -4,7 +4,7 @@ CBPI4 Grafiksammlung, CraftbeerPi4_SVG_Icons_kalausr
 
 INSTALLATION
 
-Die SVG Grafiken sind in einem ZIP Archiv verpackt. Kopiere den Inhalt des ausgepackten SVG Verzeichnisses in den Ordner "~/config/widgets".
+Die SVG Grafiken sind in einem ZIP Archiv verpackt. Kopiere den Inhalt des ausgepackten SVG Verzeichnisses in den Ordner "~/config/dasboard/widgets".
 Oder folge den Anweisungen im CBPI4 Nutzermanual im Kapitel "Dashboards". 
 Die Installation über Befehl im Terminal ist derzeit nicht möglich.
 
@@ -27,7 +27,7 @@ CBPI4 graphics collection, CraftbeerPi4_SVG_Icons_kalausr
 
 INSTALLATION
 
-The SVG graphics are ZIP archived. Copy the content of the unpacked SVG directory into "~/config/widgets".
+The SVG graphics are ZIP archived. Copy the content of the unpacked SVG directory into "~/config/dasboard/widgets".
 Or follow the instruction in the CBPI4 user manual in chapter "Dashboards".
 The installation via command line is currently not possible.
 
