@@ -5,7 +5,8 @@ CBPI4 Grafiksammlung, CraftbeerPi4_SVG_Icons_kalausr
 INSTALLATION
 
 Die SVG Grafiken sind in einem ZIP Archiv verpackt. Kopiere den Inhalt des ausgepackten SVG Verzeichnisses in den Ordner "~/config/dasboard/widgets".
-Oder folge den Anweisungen im CBPI4 Nutzermanual im Kapitel "Dashboards". 
+Oder folge den Anweisungen in Alexander Vollkopf's grossartigem CBPI4 Nutzermanual im Kapitel "Dashboards". https://openbrewing.gitbook.io/craftbeerpi4_support/readme/craftbeerpi-4-server/dashboard#how-to-add-custom-svg-items
+
 Die Installation über Befehl im Terminal ist derzeit nicht möglich.
 
 Der CBPI4 Customisation Thread in Deutsch auf Hobbybrauer.de
@@ -28,7 +29,9 @@ CBPI4 graphics collection, CraftbeerPi4_SVG_Icons_kalausr
 INSTALLATION
 
 The SVG graphics are ZIP archived. Copy the content of the unpacked SVG directory into "~/config/dasboard/widgets".
-Or follow the instruction in the CBPI4 user manual in chapter "Dashboards".
+Or follow the instructions in the great CBPI4 user manual in chapter "Dashboards".
+https://openbrewing.gitbook.io/craftbeerpi4_support/readme/craftbeerpi-4-server/dashboard#how-to-add-custom-svg-items
+
 The installation via command line is currently not possible.
 
 The CBPI4 Customisation Thread in German on Hobbybrauer.de
