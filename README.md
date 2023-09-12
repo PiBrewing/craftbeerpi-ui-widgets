@@ -2,6 +2,8 @@
 
 CBPI4 Grafiksammlung, CraftbeerPi4_SVG_Icons_kalausr
 
+--- english translation below ---
+
 INSTALLATION
 
 Die SVG Grafiken sind in einem ZIP Archiv verpackt. Kopiere den Inhalt des ausgepackten SVG Verzeichnisses in den Ordner "~/config/dashboard/widgets".
