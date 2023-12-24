@@ -4,7 +4,8 @@ CBPI4 Grafiksammlung, CraftbeerPi4_SVG_Icons_kalausr
 
 --- english translation below ---
 
-![Screenshot 2023-12-23 at 21 14 53](https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/7dd53936-542d-4249-947f-9e0bbff6da3f)
+![Screenshot 2023-12-23 at 21 14 53](https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/d4455813-12d3-4acc-9a9f-ea55963cb415)
+
 
 INSTALLATION
 
