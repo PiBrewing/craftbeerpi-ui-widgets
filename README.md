@@ -27,7 +27,7 @@ Nichtkommerzielle Nutzung gestattet.
 Kommerzielle Nutzung nur nach individueller Freigabe und Lizenzierung durch den Autor. 
 Ähnlichkeit zu existierenden Produkten sind rein zufällig und nicht beabsichtigt.
 
-![CraftbeerPi4_Iconset_ILLU_v1 297](https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/259c25ca-ee8a-4c81-bec6-7a0b7eb162f9)
+![CraftbeerPi4_Iconset_ILLU_v1 300](https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/355bc0d7-ca64-4d3b-a22c-bdd6df4ee790)
 
 CBPI4 graphics collection, CraftbeerPi4_SVG_Icons_kalausr
 
