@@ -6,15 +6,15 @@ CBPI4 Grafiksammlung, CraftbeerPi4_SVG_Icons_kalausr
 
 User Interface Grafiken für CraftbeerPi4
 
-![CraftbeerPi4_Iconset_ILLU_v1 300](https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/355bc0d7-ca64-4d3b-a22c-bdd6df4ee790)
+![CraftbeerPi4_Iconset_ILLU_v1 300_3840px](https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/76e096fc-184f-4914-b5de-0d3f77eb8a41)
 Komplette CBPI4 graphics Kollektion, CraftbeerPi4_SVG_Icons_kalausr
 
 Mit Unterstützung des Custom SVG Moduls, das zwischen zwei unterschiedlichen SVG's je nach Actor Zustand umstellen kann.
 
 Beispiele:
 
-<img width="600" alt="Heating Element inactive - active" src="https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/c768b9dd-2e5b-4e5e-8275-07a4252212e4">
-<img width="600" alt="Pump inactive - active" src="https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/4f31c931-a9c9-4d61-a106-5fae8b85108f">
+<img width="800" alt="Heating Element inactive - active" src="https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/c768b9dd-2e5b-4e5e-8275-07a4252212e4">
+<img width="800" alt="Pump inactive - active" src="https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/4f31c931-a9c9-4d61-a106-5fae8b85108f">
 
 
 
