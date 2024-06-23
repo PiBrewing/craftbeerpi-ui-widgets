@@ -27,6 +27,14 @@ Nichtkommerzielle Nutzung gestattet.
 Kommerzielle Nutzung nur nach individueller Freigabe und Lizenzierung durch den Autor. 
 Ähnlichkeit zu existierenden Produkten sind rein zufällig und nicht beabsichtigt.
 
+Neu ist die Unterstuetzung des Custom SVG Moduls, das zwei unterschiedliche SVG's je nach Actor Zustand darstellen kann.
+
+Beispiele:
+<img width="600" alt="Heating Element inactive - active" src="https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/c768b9dd-2e5b-4e5e-8275-07a4252212e4">
+<img width="600" alt="Pump inactive - active" src="https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/4f31c931-a9c9-4d61-a106-5fae8b85108f">
+
+
+
 ![CraftbeerPi4_Iconset_ILLU_v1 300](https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/355bc0d7-ca64-4d3b-a22c-bdd6df4ee790)
 
 CBPI4 graphics collection, CraftbeerPi4_SVG_Icons_kalausr
