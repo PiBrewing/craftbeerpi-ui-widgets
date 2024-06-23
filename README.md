@@ -4,13 +4,12 @@ CBPI4 Grafiksammlung, CraftbeerPi4_SVG_Icons_kalausr
 
 --- english translation below ---
 
-User Interface Grafiken fuer CraftbeerPi4
+User Interface Grafiken für CraftbeerPi4
 
 ![CraftbeerPi4_Iconset_ILLU_v1 300](https://github.com/PiBrewing/craftbeerpi-ui-widgets/assets/87930313/355bc0d7-ca64-4d3b-a22c-bdd6df4ee790)
+Komplette CBPI4 graphics Kollektion, CraftbeerPi4_SVG_Icons_kalausr
 
-CBPI4 graphics collection, CraftbeerPi4_SVG_Icons_kalausr
-
-Neu ist die Unterstuetzung des Custom SVG Moduls, das zwei unterschiedliche SVG's je nach Actor Zustand darstellen kann.
+Mit Unterstützung des Custom SVG Moduls, das zwischen zwei unterschiedlichen SVG's je nach Actor Zustand umstellen kann.
 
 Beispiele:
 
@@ -44,6 +43,10 @@ Kommerzielle Nutzung nur nach individueller Freigabe und Lizenzierung durch den 
 
 --- ENGLISH ---
 
+User interface graphics for CraftbeerPi4
+
+Please see the complete CBPI4 graphics collection above.
+With support of the Custom SVG module, which can switch between two different SVG's depending on the selected actor state.
 
 INSTALLATION
 
